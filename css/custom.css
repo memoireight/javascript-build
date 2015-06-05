@@ -1,0 +1,143 @@
+.ev-cta {
+    border: 1px solid black;
+    width: 280px!important;
+}
+
+.ev-cta a {
+    width: 254px!important;
+}
+
+.ev-cta-nav {
+    margin-bottom: 20px;
+    width: 280px!important;
+}
+
+.landing-icon {
+    width: 30px;
+    display: inline-block;
+}
+
+.ev-cta-nav-ins {
+    margin-bottom: 0px;
+    margin-top: 7px;
+    margin-left: 0px;
+}
+
+.block {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px
+}
+
+.event-landing-link a {
+    font-family: 'Open Sans';
+    font-weight: 800
+}
+
+.dates a {
+    text-decoration: underline
+}
+
+.ee li {
+    background-color: #fff;
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 10px;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+
+.ee li:before {
+    content: "\00BB \0020";
+}
+
+.ok p {
+    background: url("../img/check.png") no-repeat 0% 50%;
+    padding-left: 18px;
+}
+
+.error p {
+    background: url("../img/error.png") no-repeat 0% 50%;
+    padding-left: 18px;
+}
+
+#contactForm button {
+    padding: 7px 10px;
+}
+
+.store-table {
+    background: red width: 100%;
+}
+
+.about-june {
+    width: 900px!important;
+    font-size: 22px
+}
+
+.june-events {
+    width: 900px!important;
+    font-size: 22px
+}
+
+.contact-june {
+    width: 900px!important;
+    font-size: 22px
+}
+
+.june-store {
+    width: 900px!important;
+}
+
+.about-june p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana, Arial, Helvetica;
+}
+
+.block_a {
+    display: inline;
+    float: left;
+    width: 960px;
+    padding: 0;
+}
+
+.box_a {
+    width: 960px;
+    height: auto;
+    text-align: left;
+    background-color: #FFF;
+    border: 1px solid #666;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 29px;
+}
+
+.dates {
+    font-size: 20px
+}
+
+header h1 a:visited {
+    color: #000
+}
+
+header h1 a {
+    color: #000
+}
+
+table,
+tr,
+td,
+th {
+    border: none!important
+}
+
+.show-dates li {
+    margin-bottom: 12px
+}
+
+.landing-text {
+    line-height: 33px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
